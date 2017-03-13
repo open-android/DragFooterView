@@ -3,7 +3,7 @@
 一个向左拖拽跳转至更多页面的通用控件    
 
 
-![screenshot](/DragFooterView/DragFooterView/screenshot/demo.gif)
+![screenshot](/DragFooterView/screenshot/demo.gif)
  
  
 ![screenshot](/DragFooterView/DragFooterView/screenshot/inspiration.gif)  
