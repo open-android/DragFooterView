@@ -3,18 +3,18 @@
 一个向左拖拽跳转至更多页面的通用控件    
 
 
-![screenshot](/DragFooterView/screenshot/demo.gif)
+![screenshot](/DragFooterView/DragFooterView/screenshot/demo.gif)
  
  
-![screenshot](/DragFooterView/screenshot/inspiration.gif)  
+![screenshot](/DragFooterView/DragFooterView/screenshot/inspiration.gif)  
 
 ## 自定义你自己的Footer效果   
 作为一个library，当然不能只支持以上那一种效果啦，所以，这个库的
 Footer应该是可定制的，可插拔的。定制Footer只需定义一个继承自
 BaseFooterDrawer的类，然后在参数中提供的区域中绘制即可，而其余
 的事件分发，拦截都不需要关心。以下是我自己定制的两种Footer效果。     
-![screenshot](/DragFooterView/screenshot/custom2.gif)     
-![screenshot](/DragFooterView/screenshot/custom1.gif)    
+![screenshot](/DragFooterView/DragFooterView/screenshot/custom2.gif)     
+![screenshot](/DragFooterView/DragFooterView/screenshot/custom1.gif)    
 
 ## 使用步骤
 
