@@ -18,9 +18,11 @@
 作为一个library，当然不能只支持以上那一种效果啦，所以，这个库的
 Footer应该是可定制的，可插拔的。定制Footer只需定义一个继承自
 BaseFooterDrawer的类，然后在参数中提供的区域中绘制即可，而其余
-的事件分发，拦截都不需要关心。以下是我自己定制的两种Footer效果。     
-![custom2](/DragFooterView/DragFooterView/screenshot/custom2.gif)     
-![custom1](/DragFooterView/DragFooterView/screenshot/custom1.gif)    
+的事件分发，拦截都不需要关心。以下是我自己定制的两种Footer效果。 
+
+![custom2](/DragFooterView/screenshot/custom2.gif)     
+
+![custom1](/DragFooterView/screenshot/custom1.gif)    
 
 ## 使用步骤
 
@@ -164,7 +166,9 @@ BaseFooterDrawer的类，然后在参数中提供的区域中绘制即可，而�
         dragContainer.setDragListener(this);
     }
    ```
- ### (TextView, Button用法)
+   
+ ###  (TextView, Button用法)
+ 
  ```xml
    
     <LinearLayout
@@ -239,4 +243,4 @@ BaseFooterDrawer的类，然后在参数中提供的区域中绘制即可，而�
         dragContainer.setDragListener(this);
     }
 	    
-	 ```    
+ ```    
